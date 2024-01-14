@@ -1,4 +1,4 @@
-# Datasets and Scripts to predice pro-European towns
+# Datasets and Scripts to find likely pro-European towns
 
 The idea is to use opinion polls conducted from years 2022 and 2023, as well as the results of the 2019 European Elections, and fit them to city-level social and economic high-level variables as documented by INSEE.
 
