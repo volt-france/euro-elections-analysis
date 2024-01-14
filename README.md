@@ -16,6 +16,8 @@ Pollsters we took into account were:
 * [CEVIPOF with OpinionWay](https://www.opinion-way.com/) as part of [SciencePo's "Barometer of political confidence"](https://data.sciencespo.fr/dataset.xhtml?persistentId=doi:10.21410/7E4/9K3VGR) ("Baromètre de la confiance politique") which gives a breakdown along multiple variables of french people's answers to up to 150 questions
 * [CEVIPOF with IFOP](https://ifop.com) as part of their recent [series of polls on the 2024 European Elections](https://www.ipsos.com/fr-fr/europeennes-2024-le-rassemblement-national-sinstalle-largement-en-tete-des-intentions-de-vote) which allows us to estimate how interested french people are in the 2024 European Elections
 
+The large amounts of Excel tabs within the CEVIPOF barometer [excel files](https://data.sciencespo.fr/dataset.xhtml?persistentId=doi:10.21410/7E4/9K3VGR) where cleaned and are available in CSV Format in a [Github repository](https://github.com/volt-france/datasets).
+
 ## Accounting for differences in methodology
 
 Most french pollsters use the same main social and economic variables as a way to obtain samples representative of the french population. However, they might report ages and conditional answers based on binned values which can differ from pollster to pollster.
