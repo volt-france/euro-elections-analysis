@@ -1,0 +1,88 @@
+#!/usr/bin/env python3
+
+import pandas as pd
+import argparse
+import json
+import sys
+
+from pathlib import Path
+
+parser = parser = argparse.ArgumentParser(
+                    prog='cevipof-melter',
+                    description='Melts a Cevipof Barometer File as formatted on the Volt-France Github into a standardized format for multiple poll analysis.',
+                    epilog='Use this program with only `pandas` installed (virtualenv recommended) via `cevipof_barometer_helper -f <filename>`'
+                    )
+
+parser.add_argument('-f', '--filename')
+parser.add_argument('-P', '--prefix' , help='Prefix to add to output document. Default is `standardized-`', default='standardized-')
+
+args = parser.parse_args()
+
+if not args.filename:
+    print("Please use the `-h` flag if you do not know how to use this script.", file=sys.stderr)
+    exit(1)
+
+if __name__ == '__main__':
+    filePath = Path(args.filename)
+    if not filePath.exists():
+        print(f"Path '{filePath.absolute()}' is not a file.", file=sys.stderr)
+        exit(1)
+    elif not filePath.name.endswith('.csv'):
+        print(f"File '{filePath.name}' is not a CSV.", file=sys.stderr)
+        exit(1)
+    else:
+        catMapPath = None
+        catLabelPath = None
+        colMapPath = None
+        for path in Path.cwd().rglob('**/*.json'):
+            if 'CategoryMap' in path.name:
+                catMapPath = path
+            elif 'CatLabelMap' in path.name:
+                catLabelPath = path
+            elif 'ColMap' in path.name:
+                colMapPath = path
+        if (not catMapPath
+            or not catLabelPath
+            or not colMapPath
+            ):
+            print(f"Could not find Column & Category Value Maps (.json) in `../data` directory. Please clone both `data` and `scripts` directories`.")
+            exit(1)
+        catNameMap = json.load(catMapPath.open())
+        catLabelMap = json.load(catLabelPath.open())
+        colMap = json.load(colMapPath.open())
+
+        df = pd.read_csv(filePath)
+        st_cols = [col for col in df.columns if 'ST' in col]
+        base_cols = ['BASE','Moyenne', 'Question']
+        base_cols = [col for col in base_cols if col in df.columns]
+
+        df = df.drop(
+                columns = base_cols + st_cols
+            ).rename(
+                columns=colMap
+            ).melt(
+                id_vars=['Indicator','Category'], 
+                var_name='type_answer', 
+                value_name='percentage'
+            ).rename(
+                columns={
+                'Indicator':'category',
+                'Category':'category_label',
+            }).replace({
+                'category' : catNameMap,
+                'category_label' : catLabelMap
+            })
+        df = df.dropna().groupby([
+            'category', 
+            'category_label', 
+            'type_answer'
+            ]).sum().reset_index()
+        # small adjustments to values
+        df.percentage *= 100.0
+        df.loc[
+            (df.category == 'political_party') & 
+            (df.category_label.isin(['left', 'right'])),
+            'category_label'
+            ] = None
+        df = df.dropna()
+        df.to_csv(args.prefix + filePath.name, index=False)

@@ -1,0 +1,123 @@
+Indicator,Category,BASE,ST Confiance,ST Pas Confiance,Très confiance,Plutôt confiance,Plutôt pas confiance,Pas du tout confiance,No rep.,Question
+Total,Total,5979.002,0.5118899441746297,0.46273642323585107,0.08080494,0.43108549000000007,0.2720827,0.19065372,0.02537229,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Gender,Man,2929.637,0.5149999,0.46649431311797335,0.09235759,0.42343880999999994,0.26027661,0.20621811,0.017711,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Gender,Woman,3049.36,0.5081394128604034,0.45912716110921636,0.06970594,0.43843364,0.28342577,0.17570079999999996,0.03273284,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Age,18-24,478.2759,0.555,0.40438019143343834,0.075,0.47897800999999995,0.24294952,0.16143065,0.04164182,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Age,25-34,836.9062,0.536978098620849,0.4332547661852666,0.09576503000000001,0.44121301,0.27941196,0.15384305,0.029766970000000004,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Age,35-49,1494.556,0.4549999,0.5170091318090456,0.054999900000000004,0.40183995999999994,0.30788615,0.20912351,0.02615048,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Age,50-64,1554.412,0.48672552708033645,0.49186007313376373,0.07705113,0.4102477800000001,0.28499990000000003,0.20628566,0.021415529999999995,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Age,65+,1614.848,0.5615995437341471,0.41703640218769816,0.10176605000000001,0.45983374,0.23079027,0.18624607,0.02136465,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Socio-Professional Category,Total-CSP+,1734.019,0.5379077737902526,0.4452997919861317,0.08899655,0.45070364000000007,0.27769096,0.16760895,0.0149999,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Socio-Professional Category,Small Business owners,212.9949,0.4149999,0.575,0.08457437,0.33104408,0.31749605,0.25747452,0.00941117,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Socio-Professional Category,Cadres/Prof Lib,597.9521,0.5902471117669794,0.3855544616366428,0.09891035,0.49133668,0.23943975000000003,0.14611456,0.02419851,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Socio-Professional Category,Prof Intermed,896.9079,0.5277447104658125,0.4628387151010711,0.07976406,0.44798067,0.29820475,0.16463407,0.00941538,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Socio-Professional Category,Total-CSP-,1674.09,0.46156998727666976,0.5070954369239408,0.07019563,0.39137454,0.31111894,0.19597656000000002,0.03133427,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Socio-Professional Category,Salaried,956.6466,0.4758484481103053,0.4849999,0.055,0.42084904999999995,0.28206383,0.20375298,0.03833414,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Socio-Professional Category,Blue collar,717.4432,0.4425313390662843,0.5354685917993228,0.09179716000000002,0.35073411,0.34986115,0.18560731,0.02200058,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,Far left,187.3446,0.545,0.4049999,0.12600353,0.4193329499999999,0.33005915,0.07499990000000001,0.04960447,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,Radical left,828.7407,0.475,0.5013775720198127,0.07591688,0.3977055299999999,0.33972749,0.1616502,0.0249999,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,Left,1430.296,0.6137748410119304,0.3692151834305626,0.08976121,0.5240137,0.25244844,0.11676695,0.01701075,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,PC/LFI,641.3963,0.4527225991169578,0.5292528192008591,0.06128712,0.39143553,0.34255124,0.18670173,0.0180248,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,PS,449.3176,0.7441684901726529,0.2391457623738754,0.12185492,0.62231348,0.17013995999999998,0.06900584,0.01668588,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,EELV,339.583,0.7449998999999999,0.23904029353648443,0.10107738,0.64435646,0.19116999,0.04787033,0.015525250000000003,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,EM,672.9198,0.8949999,0.105,0.24427354,0.6531572299999999,0.08506289,0.015,0.00250634,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,MoDem,161.1257,0.8430771751495881,0.15692276278706624,0.15912185,0.68395545,0.13032949,0.02659331,0,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,Right,573.0042,0.5976708373167248,0.38831408216554086,0.075,0.5226299299999999,0.25335469,0.135,0.01401538,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,UDI/PR,89.32552,0.8629688357817564,0.12584533512931131,0.08173238,0.78123643,0.11052211999999999,0.01532319,0.01118598,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,LR,397.5368,0.6199992051050368,0.36231312421894024,0.08006601999999999,0.53993316,0.25360419,0.10870873,0.01768812,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,Radical right,1008.8,0.23607196669310074,0.7544939532117367,0.02746973,0.2086023,0.33499989999999996,0.41949367,0.0094344,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,Debout la France,86.14185,0.21952407569607568,0.780476040391517,0.04024448,0.17927953,0.40031437,0.3801614400000001,0,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,Reconquete,205.4045,0.162782266211305,0.8289755092999422,0,0.16278227,0.23283852,0.59613689,0.00824223,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,RN,717.2537,0.25904767030131737,0.730043916120614,0.03380215,0.22524568,0.35735152,0.37269212,0.01090888,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Political similarity,No preference,1860.95,0.3825708374754829,0.5706751927778823,0.03248766,0.35008324,0.33722921,0.23344625000000002,0.04675465,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Total-left,1649.278,0.5892248608178852,0.38961885140043095,0.09517674,0.49404837,0.27316638,0.11645259,0.02115625,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Very Left,217.9165,0.45832963543375554,0.49842210204367265,0.10190247,0.35642716,0.30154031,0.19688174,0.04324883,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Left,1431.362,0.6091526811526364,0.3730541260701346,0.09415269999999999,0.51500012,0.26884653,0.10420774,0.01779278,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Center,776.1196,0.799270499031335,0.1930652182988292,0.14333023,0.65594001,0.15227782,0.040787300000000005,0.0076644999999999994,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Total-right,1622.94,0.4509384820141225,0.5418488668712337,0.07037475,0.38146315,0.26595056,0.2749999,0.00721164,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Right,1193.119,0.5284050459342279,0.46223042295026734,0.0827912,0.44561414,0.26763206,0.19459844,0.0093633,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Very Right,429.8207,0.23590301723486096,0.7628576287740446,0.03590846,0.19999451,0.26128314,0.50157449,0.00123895,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Both left and Right,200.4265,0.5932523892798607,0.39785257937448393,0.12986691,0.46338563,0.21122975,0.18662283,0.00889535,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Politics,Neither left nor right,1673.316,0.3540693449414217,0.5906883099187481,0.04102551,0.31304392,0.3376359299999999,0.2530528,0.05524304,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Loss of job risk,High risk,556.2398,0.3969421102193694,0.5749998999999999,0.07807843,0.31886373,0.30304376,0.27236131,0.0276525,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Loss of job risk,Low risk,1874.312,0.4821784740214009,0.5008655976166189,0.06882573,0.41335274,0.30046412,0.20040175,0.01695613,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+Loss of job risk,Zero risk,3478.817,0.5496264965935259,0.42268018122252476,0.08886484,0.4607618,0.24986344,0.17281659,0.02769438,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Arthaud,24.07418,0.45290514567889756,0.5212705064097719,0.08370736,0.36919778999999997,0.46152392,0.05974654,0.02582415,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Poutou,32.85668,0.6066267194372652,0.36438830703528174,0.05802516,0.5491966500000001,0.21879323,0.14499990000000001,0.02898506,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Roussel,98.04205,0.5242425061491472,0.4597935273691237,0.0599326,0.46430996,0.32044556,0.13934807,0.0159636,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Melenchon,942.3053,0.505,0.4749999,0.06815211,0.43686997,0.33499989999999996,0.14288331,0.01709471,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Hidalgo,75.31895,0.834992920108419,0.15695173658156414,0.08380403999999998,0.75107383,0.10206665,0.055,0.00805548,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Jadot,198.8808,0.7711287364089444,0.2083954308309299,0.13469837,0.63642996,0.17563802,0.03275742,0.02047608,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Macron,1195.294,0.876852054808273,0.11320988811120944,0.19598467,0.68086864,0.09469821,0.01851172,0.00993759,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Pecresse,205.1207,0.7167838253282092,0.2805476970388654,0.03953046,0.67725344,0.20120026999999996,0.07934733,0.0026682,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Dupont-Aignan,88.56025,0.2668853125414619,0.7249998999999999,0.00767999,0.25920534,0.30294494,0.4232796300000001,0.00689008,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Zemmour,303.4525,0.20441129995633583,0.7900096390703653,0.01950917,0.18490215,0.28995408,0.50005586,0.0055791,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Le Pen,993.0248,0.2624466176474142,0.7202379034239629,0.03628162,0.2249999,0.3627257699999999,0.35867745,0.01731526,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Lassalle,134.5409,0.4049999,0.5868516562621479,0.06280078,0.3429233,0.35594247,0.23090919,0.00742376,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Blank/Null/NA,96.61228,0.4535281643285926,0.4879297952599814,0.04380917,0.40948932,0.31315978,0.175,0.05854173000000001,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Blank,63.86856,0.4595965526700461,0.5040027519017181,0.04872869,0.41201756000000006,0.32499989999999995,0.17785339,0.03640046,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+1st round vote,Null,19.09123,0.4020328705903182,0.565,0.03129383,0.3702193999999999,0.385,0.17928803,0.03419874,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+2nd round vote,Macron,2287.563,0.8098802087636493,0.1791814258230265,0.15189894,0.6579814400000001,0.15154564,0.02763575,0.01093931,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+2nd round vote,Le Pen,1619.66,0.24732919254658384,0.7401022436807725,0.03036206,0.21696714,0.345458,0.3946435099999999,0.012568579999999998,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"
+2nd round vote,Blank/Null/NA,370.4173,0.42576359149532156,0.5449999,0.026457990000000004,0.39930559,0.3832348,0.16358707,0.02741497,"q13_i7. Avez-vous très confiance, plutôt confiance, plutôt pas confiance ou pas confiance du tout dans les institutions suivantes :
+- L'Union européenne"

@@ -1,0 +1,11 @@
+{
+    "Total": null,
+    "Gender": null,
+    "Age": "age",
+    "Socio-Professional Category": "social_profession",
+    "Political similarity": "political_party",
+    "Politics": "political_leaning",
+    "Loss of job risk": "job_loss_risk",
+    "1st round vote": null,
+    "2nd round vote": null
+}

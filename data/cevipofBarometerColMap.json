@@ -1,0 +1,8 @@
+{
+    "Pas du tout confiance": "no_confidence",
+    "Plutôt pas confiance": "low_confidence",
+    "Plutôt confiance": "sufficient_confidence",
+    "Très confiance": "high_confidence",
+    "Je ne sais pas": "no_opinion",
+    "No rep.":"no_answer"
+}
